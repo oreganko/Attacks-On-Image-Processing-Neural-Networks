@@ -21,7 +21,7 @@ test_dir = os.path.join(DS_PATH, 'TestR')
 test_patch_dir = os.path.join(DS_PATH, 'patch_test')
 test_split_patch_dir = os.path.join(DS_PATH, 'split_patch_test')
 plots_dir = lambda experiments_name: os.path.join('plots', experiments_name)
-logo_path = './AGH.png'
+logo_path = 'patches/AGH.png'
 # src_class = '12'  # droga z pierwszeństwem przejazdu
 # target_class = '40'  # ruch okrężny
 
